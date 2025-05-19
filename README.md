@@ -1,5 +1,9 @@
 ## Hi, I'm Mohammed Elhaj
 
-- 🔭 I’m currently working on a budget planner with Python and Django.
+🔍 I'm currently diving deep into data analysis using Power BI, Excel, Python, and SQL to turn raw data into actionable insights.
 
-I'm on the look out for a role in backend web development, ideally in Python. I'd especially love to work at a startup on a tight knit team where I can make an impact quickly. If you're hiring, let's chat!
+📊 I enjoy uncovering trends, automating reports, and building dashboards that help teams make smarter decisions.
+
+🚀 I'm actively seeking a role in data analysis or business intelligence, ideally in a collaborative environment where I can contribute from day one and grow quickly.
+
+💬 If you're hiring or just want to talk data, feel free to reach out!
